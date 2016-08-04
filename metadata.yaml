@@ -1,0 +1,68 @@
+_repo: The-Secret-Adversary_1155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: http://en.wikipedia.org/wiki/Agatha_Christie
+description: "The Secret Adversary is the second published detective fiction novel\
+  \ by Agatha Christie, first published in January 1922 in the United Kingdom by The\
+  \ Bodley Head and in the United States by Dodd, Mead and Company later in that same\
+  \ year. The UK edition retailed at seven shillings and sixpence (7/6) and the US\
+  \ edition at $1.75.\nThe book introduces the characters of Tommy and Tuppence who\
+  \ feature in three other Christie novels and one collection of short stories; the\
+  \ five Tommy and Tuppence books span Agatha Christie's writing career. The Great\
+  \ War is over, and jobs are scarce. Tommy Beresford and Prudence \"Tuppence\" Cowley\
+  \ meet and agree to start their own business as The Young Adventurers. They are\
+  \ hired for a job that leads them both to many dangerous situations, meeting allies\
+  \ as well, including an American millionaire in search of his cousin.\nReviews were\
+  \ generally positive on this adventure, which manages to keep the identity of the\
+  \ arch-criminal secret to the very end.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1155'
+  wikidata: Q617379
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Beresford, Tuppence (Fictitious character) -- Fiction'
+- !lcsh 'Beresford, Tommy (Fictitious character) -- Fiction'
+- !lcsh 'Missing persons -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Secret Adversary
+url: http://www.gutenberg.org/ebooks/1155
+wikipedia:
+- https://fr.wikipedia.org/wiki/Mr_Brown
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%AF%D9%88_%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/De_geheime_tegenstander
+- https://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86%E6%A9%9F%E9%96%A2
+- https://pl.wikipedia.org/wiki/Tajemniczy_przeciwnik
+- https://bs.wikipedia.org/wiki/Tajanstveni_suparnik
+- https://hy.wikipedia.org/wiki/%D4%BD%D5%B8%D6%80%D5%B0%D6%80%D5%A4%D5%A1%D5%BE%D5%B8%D6%80_%D5%A1%D5%AD%D5%B8%D5%B5%D5%A1%D5%B6%D5%A8
+- https://fa.wikipedia.org/wiki/%D8%AF%D8%B4%D9%85%D9%86_%D9%85%D8%AE%D9%81%DB%8C
+- https://de.wikipedia.org/wiki/Ein_gef%C3%A4hrlicher_Gegner
+- https://es.wikipedia.org/wiki/El_misterioso_se%C3%B1or_Brown
+- https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B8%D1%8F%D1%82_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA
+- https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D1%98%D0%BD%D0%B8_%D0%BD%D0%B5%D0%BF%D1%80%D0%B8%D1%98%D0%B0%D1%82%D0%B5%D1%99%D0%B8
+- https://en.wikipedia.org/wiki/The_Secret_Adversary
+- https://it.wikipedia.org/wiki/Avversario_segreto
+- https://pt.wikipedia.org/wiki/The_Secret_Adversary
+- https://hr.wikipedia.org/wiki/Tajanstveni_suparnik
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA
+- https://sh.wikipedia.org/wiki/Tajanstveni_suparnik
+- https://ro.wikipedia.org/wiki/Adversarul_secret
+- https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%94%D0%BC%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D1%81%D1%83%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA
+- https://ne.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%B8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F_%E0%A4%8F%E0%A4%A1%E0%A5%8D%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A4%B0%E0%A5%80
