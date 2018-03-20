@@ -3,13 +3,13 @@ The Secret Adversary
 =====================
 
 
-This is a git repository of the source files for the book The Secret Adversary by Christie, Agatha. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the book The Secret Adversary by Christie, Agatha. This book is in the Public Domain in the United States, see the LICENSE file for details. This book may still be under copyright in countries outside the US.
 
 Found an error?
 ===============
 If you find an error in a book in GITenberg, you can report it by clicking the Issues tab in this book’s repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request on Github.  For more information and how to get involved see the CONTRIBUTING_ section of the GITenberg website.
 
-.. _CONTRIBUTING: http://gitenberg.github.com/#contributing
+.. _CONTRIBUTING: https://www.gitenberg.org/
 
 
 Technical details
@@ -27,4 +27,4 @@ Project Gutenberg is a project to collect and archive public domain texts and is
 
     From Wikipedia, the free encyclopedia
 
-.. _website: http://www.gutenberg.org/
+.. _website: https://www.gutenberg.org/
